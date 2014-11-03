@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This is the website for our energy sensing and automation project for Professor
+Lakshminarayanan Subramanian's
+[Extreme Design](http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-008/) course at
+NYU. This class started September 2nd, 2014 and will end in late December.
+Adam Jackrel, Bob Gardner, and Daniel Basner are the *talented* and *humble*
+developers workign on this.
