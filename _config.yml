@@ -2,10 +2,11 @@
 title: Extreme Design
 email: robert.gardner@nyu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/extreme-design/" # the subpath of your site, e.g. /blog/
+  There is necessary energy usage and actual energy usage. This energy sensing
+  and automation project aims to reduce wasteful energy usage. This project is
+  part of NYU CSCI 3033-008: Extreme Design with Professor Lakshmi
+  Subramanian.
+baseurl: "/extreme-design" # the subpath of your site, e.g. /blog/
 url: "http://www.robert-gardner.com/" # the base hostname & protocol for your site
 
 # Build settings
