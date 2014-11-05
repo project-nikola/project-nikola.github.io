@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Debugging Xbee"
 date:   2014-11-03 14:32:02
-categories: jekyll update
+categories: xbee
 ---
-# Debugging Xbee
+
 ## AT Commands
-[Helpful blog post.](http://https417.blogspot.com/2014/02/xbee-series-2-are-you-listening-can-you.html)
+The following information is adapted from this [helpful blog post.](http://https417.blogspot.com/2014/02/xbee-series-2-are-you-listening-can-you.html)
 - ATCH
   + What channel you are on. Not writeable. This gets set after you've joined
     a network. Hopefully your ROuter and Coordinator are on the same one.
