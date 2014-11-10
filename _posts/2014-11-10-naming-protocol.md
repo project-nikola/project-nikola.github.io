@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 11: Monday Notes"
+title: "Week 11: Naming Protocol"
 date: 2014-11-10 18:12
 categories: notes
 ---
