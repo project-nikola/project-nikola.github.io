@@ -12,9 +12,9 @@ The Coordinator has a special NI `MASTER`
 
 
 ## Type of Sensor
-ls - light switch
-pl - plug level sensor
-es - environmental sensor
+- ls - light switch
+- pl - plug level sensor
+- es - environmental sensor
 
 
 ## Location
@@ -31,8 +31,8 @@ es - environmental sensor
 
 
 ## Examples
-`eselab-1boots` - Environmental Sensor, eLab, basement, bootstrap
-`eselab-1vc`    - Environmental Sensor, eLab, basement, vc
-`eselab-1proto` - Environmental Sensor, eLab, basement, proto
-`plelab-1boots` - Plug Level Sensor,    eLab, basement, boostrap
-`plelab-1vc`    - Plug Level Sensor,    eLab, basement, vc
+- `eselab-1boots` - Environmental Sensor, eLab, basement, bootstrap
+- `eselab-1vc`    - Environmental Sensor, eLab, basement, vc
+- `eselab-1proto` - Environmental Sensor, eLab, basement, proto
+- `plelab-1boots` - Plug Level Sensor,    eLab, basement, boostrap
+- `plelab-1vc`    - Plug Level Sensor,    eLab, basement, vc
