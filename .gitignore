@@ -1,20 +1,3 @@
-<<<<<<< HEAD
 # Jekyll cruft.
 /.sass-cache/
 /_site/
-
-# Compiled python modules.
-*.pyc
-
-# Setuptools distribution folder.
-dist/
-
-# Python egg metadata, regenerated from source files by setuptools.
-*.egg-info/
-
-# Data from the sensors. No need to be in version control.
-data.csv
-=======
-_site/
-.sass-cache/
->>>>>>> gh-pages
