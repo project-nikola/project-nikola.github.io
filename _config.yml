@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   and automation project aims to reduce wasteful energy usage. This project is
   part of NYU CSCI 3033-008: Extreme Design with Professor Lakshmi
   Subramanian.
-baseurl: "/extreme-design" # the subpath of your site, e.g. /blog/
-url: "http://www.robert-gardner.com/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
